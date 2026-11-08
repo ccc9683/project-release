@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Release"
+  short_description: "Release any Git project using repository .release.yaml."
+  default_prompt: "发布"
